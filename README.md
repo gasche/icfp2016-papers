@@ -80,6 +80,7 @@ Dag-Calculus: A Calculus for Parallel Computation
 Umut Acar, Arthur Charguéraud, Mike Rainey, Filip Sieczkowski  
 
 Datafun: A Functional Datalog  
+([preprint](http://www.cs.bham.ac.uk/~krishnan/datafun.pdf))  
 Michael Arntzenius, Neelakantan Krishnaswami  
 
 Deriving a Probability Density Calculator (Functional Pearl)  
