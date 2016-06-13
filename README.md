@@ -72,6 +72,7 @@ Compact Bit Encoding Schemes for Simply-Typed Lambda-Terms
 Kotaro Takeda, Naoki Kobayashi, Kazuya Yaguchi, Ayumi Shinohara  
 
 Constructive Galois Connections: Taming the Galois Connection Framework for Mechanized Metatheory  
+([preprint](http://david.darais.com/assets/papers/constructive-galois-connections/cgc.pdf))  
 David Darais, David Van Horn  
 
 Dag-Calculus: A Calculus for Parallel Computation  
