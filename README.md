@@ -76,6 +76,7 @@ Constructive Galois Connections: Taming the Galois Connection Framework for Mech
 David Darais, David Van Horn  
 
 Dag-Calculus: A Calculus for Parallel Computation  
+([preprint](http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf)  
 Umut Acar, Arthur Charguéraud, Mike Rainey, Filip Sieczkowski  
 
 Datafun: A Functional Datalog  
