@@ -104,6 +104,7 @@ David Castro, Kevin Hammond, Susmit Sarkar
 
 Fully Abstract Compilation via Universal Embedding  
 Max New, William J. Bowman, Amal Ahmed  
+([preprint](https://www.williamjbowman.com/resources/fabcc-paper.pdf))
 
 Ghostbuster: A Tool for Simplifying and Converting GADTs  
 Trevor McDonell, Timothy Zakian, Matteo Cimini, Ryan Newton  
