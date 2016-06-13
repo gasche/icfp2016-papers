@@ -151,7 +151,8 @@ Towards Context-Free Session Types
 Peter Thiemann, Vasco Vasconcelos  
 
 Unifiers as Equivalences: Proof-Relevant Unification of Dependently Typed Data  
-Jesper Cockx, Dominique Devriese, Frank Piessens
+Jesper Cockx, Dominique Devriese, Frank Piessens  
+([preprint](https://people.cs.kuleuven.be/~jesper.cockx/unifiers-as-equivalences/draft.pdf))  
 
 ## Co-located events
 
