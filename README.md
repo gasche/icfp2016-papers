@@ -113,6 +113,7 @@ Ram Raghunathan, Stefan K. Muller, Umut Acar, Guy Blelloch
 
 Higher-Order Ghost State  
 Ralf Jung, Robbert Krebbers, Lars Birkedal, Derek Dreyer  
+([preprint](http://plv.mpi-sws.org/iris/hogs.pdf))  
 
 Indexed Codata Types  
 David Thibodeau, Andrew Cave, Brigitte Pientka  
