@@ -146,6 +146,7 @@ Maciej Piróg, Nicolas Wu
 
 Talking Bananas: Structural Recursion for Session Types  
 Sam Lindley, J. Garrett Morris  
+([draft](http://homepages.inf.ed.ac.uk/slindley/papers/talking-bananas-draft-march2016.pdf))  
 
 The Best of Both Worlds: Linear Functional Programming without Compromise  
 J. Garrett Morris  
