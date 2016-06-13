@@ -117,6 +117,7 @@ Ralf Jung, Robbert Krebbers, Lars Birkedal, Derek Dreyer
 
 Indexed Codata Types  
 David Thibodeau, Andrew Cave, Brigitte Pientka  
+([preprint](http://www.cs.mcgill.ca/~bpientka/papers/indexed_codata.pdf))  
 
 Oh Lord, Please Don't Let Contracts Be Misunderstood: A Variation on Old Gems (Functional Pearl)  
 Christos Dimoulas, Max New, Robby Findler, Matthias Felleisen  
