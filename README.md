@@ -56,6 +56,7 @@ All Sorts of Permutations (Functional Pearl)
 Jan Christiansen, Nikita Danilenko, Sandra Dylus  
 
 Allocation Characterizes Polyvariance  
+([preprint](http://thomas.gilray.org/pdf/allocation-polyvariance.pdf))  
 Thomas Gilray, Michael D. Adams, Matthew Might  
 
 An Abstract Memory Functor for Verified C Static Analyzers  
