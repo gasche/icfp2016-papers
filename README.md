@@ -89,6 +89,7 @@ David Christiansen, Edwin Brady
 
 Experience Report: Growing and Shrinking Polygons for Random Testing of Computational Geometry Algorithms  
 Ilya Sergey  
+([preprint](http://ilyasergey.net/papers/polygons-draft.pdf))
 
 Farms, Pipes, Streams, and Reforestation: Reasoning about Structured Parallel Processes using Types and Hylomorphisms  
 David Castro, Kevin Hammond, Susmit Sarkar  
