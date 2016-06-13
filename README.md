@@ -43,6 +43,7 @@ A Glimpse of Hopjs
 Manuel Serrano, Vincent Prunet  
 
 A Lambda-Calculus Foundation for Universal Probabilistic Programming  
+([preprint](http://arxiv.org/pdf/1512.08990) from [arXiv](http://arxiv.org/abs/1512.08990))  
 Johannes Borgström, Ugo Dal Lago, Andrew D. Gordon, Marcin Szymczak  
 
 A New Verified Compiler Backend for CakeML  
