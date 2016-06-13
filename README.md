@@ -139,6 +139,7 @@ Paul Downen, Luke Maurer, Zena Ariola, Simon Peyton Jones
 
 Set-Theoretic Types for Polymorphic Variants  
 Giuseppe Castagna, Tommaso Petrucciani, Kim Nguyễn  
+([preprint](http://arxiv.org/pdf/1606.01106) from [arXiv](http://arxiv.org/abs/1606.01106))  
 
 String Diagrams for Free Monads (Functional Pearl)  
 Maciej Piróg, Nicolas Wu  
