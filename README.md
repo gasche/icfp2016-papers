@@ -131,6 +131,7 @@ Shin-Cheng Mu, Yu-Hsi Chiang, Yu-Han Lyu
 
 Refinement through Restraint: Bringing Down the Cost of Verification  
 Liam O'Connor, Zilin Chen, Sidney Amani, Christine Rizkallah, Japheth Lim, Thomas Sewll, Yutaka Nagashima, Alex Hixon, Joseph Tuong, Toby Murray, Gerwin Klein, Gernot Heiser  
+([preprint](http://www.mpi-inf.mpg.de/~crizkall/Publications/cogent.pdf))
 
 Sequent Calculus as a Compiler Intermediate Language  
 Paul Downen, Luke Maurer, Zena Ariola, Simon Peyton Jones  
