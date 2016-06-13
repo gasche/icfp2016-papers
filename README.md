@@ -43,8 +43,8 @@ A Glimpse of Hopjs
 Manuel Serrano, Vincent Prunet  
 
 A Lambda-Calculus Foundation for Universal Probabilistic Programming  
-([preprint](http://arxiv.org/pdf/1512.08990) from [arXiv](http://arxiv.org/abs/1512.08990))  
 Johannes Borgström, Ugo Dal Lago, Andrew D. Gordon, Marcin Szymczak  
+([preprint](http://arxiv.org/pdf/1512.08990) from [arXiv](http://arxiv.org/abs/1512.08990))  
 
 A New Verified Compiler Backend for CakeML  
 Yong Kiam Tan, Magnus O. Myreen, Ramana Kumar, Anthony Fox, Scott Owens, Michael Norrsh  
@@ -56,8 +56,8 @@ All Sorts of Permutations (Functional Pearl)
 Jan Christiansen, Nikita Danilenko, Sandra Dylus  
 
 Allocation Characterizes Polyvariance  
-([preprint](http://thomas.gilray.org/pdf/allocation-polyvariance.pdf))  
 Thomas Gilray, Michael D. Adams, Matthew Might  
+([preprint](http://thomas.gilray.org/pdf/allocation-polyvariance.pdf))  
 
 An Abstract Memory Functor for Verified C Static Analyzers  
 Sandrine Blazy, Vincent Laporte, David Pichardie  
@@ -72,16 +72,16 @@ Compact Bit Encoding Schemes for Simply-Typed Lambda-Terms
 Kotaro Takeda, Naoki Kobayashi, Kazuya Yaguchi, Ayumi Shinohara  
 
 Constructive Galois Connections: Taming the Galois Connection Framework for Mechanized Metatheory  
-([preprint](http://david.darais.com/assets/papers/constructive-galois-connections/cgc.pdf))  
 David Darais, David Van Horn  
+([preprint](http://david.darais.com/assets/papers/constructive-galois-connections/cgc.pdf))  
 
 Dag-Calculus: A Calculus for Parallel Computation  
-([preprint](http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf)  
 Umut Acar, Arthur Charguéraud, Mike Rainey, Filip Sieczkowski  
+([preprint](http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf))  
 
 Datafun: A Functional Datalog  
-([preprint](http://www.cs.bham.ac.uk/~krishnan/datafun.pdf))  
 Michael Arntzenius, Neelakantan Krishnaswami  
+([preprint](http://www.cs.bham.ac.uk/~krishnan/datafun.pdf))  
 
 Deriving a Probability Density Calculator (Functional Pearl)  
 Wazim Mohammed Ismail, Chung-chieh Shan  
@@ -105,8 +105,8 @@ Fully Abstract Compilation via Universal Embedding
 Max New, William J. Bowman, Amal Ahmed  
 
 Ghostbuster: A Tool for Simplifying and Converting GADTs  
-([preprint](http://www.cs.ox.ac.uk/people/timothy.zakian/ghostbuster.pdf))  
 Trevor McDonell, Timothy Zakian, Matteo Cimini, Ryan Newton  
+([preprint](http://www.cs.ox.ac.uk/people/timothy.zakian/ghostbuster.pdf))  
 
 Hierarchical Memory Management for Parallel Programs  
 Ram Raghunathan, Stefan K. Muller, Umut Acar, Guy Blelloch  
