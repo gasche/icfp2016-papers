@@ -82,6 +82,7 @@ Bruno Oliveira, Zhiyuan Shi, João Miguel Queiroz de Ataíde Agorreta de Alpuim
 
 Dynamic Witnesses for Static Type Errors  
 Eric Seidel, Ranjit Jhala, Westley Weimer  
+([draft](http://eric.seidel.io/pub/nanomaly-icfp16.pdf))
 
 Elaborator Reflection: Extending Idris in Idris  
 David Christiansen, Edwin Brady  
