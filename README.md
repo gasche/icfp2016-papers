@@ -117,6 +117,7 @@ Christos Dimoulas, Max New, Robby Findler, Matthias Felleisen
 
 Partial Type Equivalences for Verified Dependent Interoperability  
 Pierre-Évariste Dagand, Nicolas Tabareau, Éric Tanter  
+([preprint](http://pleiad.dcc.uchile.cl/papers/2016/dagandAl-icfp2016.pdf))
 
 Queueing and Glueing for Optimal Partitioning (Functional Pearl)  
 Shin-Cheng Mu, Yu-Hsi Chiang, Yu-Han Lyu  
