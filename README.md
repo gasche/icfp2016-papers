@@ -94,6 +94,7 @@ Eric Seidel, Ranjit Jhala, Westley Weimer
 
 Elaborator Reflection: Extending Idris in Idris  
 David Christiansen, Edwin Brady  
+([draft](http://davidchristiansen.dk/drafts/elab-reflection-draft.pdf))
 
 Experience Report: Growing and Shrinking Polygons for Random Testing of Computational Geometry Algorithms  
 Ilya Sergey  
