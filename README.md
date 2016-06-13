@@ -24,16 +24,6 @@ Note: if you are editing this repository, please remember to use the
 Markdown syntax for hard line breaks, namely two spaces at the end of
 the line.
 
-Note: the [ICFP'16 website][icfp2016-accepted], powered by the
-increasingly convenient [conf.researchr](http://conf.researchr.org/)
-platform, has nice eye-candy display of paper abstract on click, etc,
-and they also have the ability to link to article
-preprints. Unfortunately, we couldn't find any information on how to
-contribute such links, so git repositories still remain the most
-convenient way to help crowd-source preprint gathering. We hope to be
-able to contribute the links contributed here to their platform, to
-benefit an even larger audience.
-
 ## ICFP 2016
 
 A Fully Concurrent Garbage Collector for Functional Programs on Multicore Processors  
