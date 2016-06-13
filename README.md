@@ -75,6 +75,7 @@ Michael Arntzenius, Neelakantan Krishnaswami
 
 Deriving a Probability Density Calculator (Functional Pearl)  
 Wazim Mohammed Ismail, Chung-chieh Shan  
+([draft](http://homes.soic.indiana.edu/ccshan/rational/pearl.pdf))
 
 Disjoint Intersection Types  
 Bruno Oliveira, Zhiyuan Shi, João Miguel Queiroz de Ataíde Agorreta de Alpuim  
