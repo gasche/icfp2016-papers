@@ -100,6 +100,7 @@ Fully Abstract Compilation via Universal Embedding
 Max New, William J. Bowman, Amal Ahmed  
 
 Ghostbuster: A Tool for Simplifying and Converting GADTs  
+([preprint](http://www.cs.ox.ac.uk/people/timothy.zakian/ghostbuster.pdf))  
 Trevor McDonell, Timothy Zakian, Matteo Cimini, Ryan Newton  
 
 Hierarchical Memory Management for Parallel Programs  
