@@ -131,7 +131,7 @@ Liam O'Connor, Zilin Chen, Sidney Amani, Christine Rizkallah, Japheth Lim, Thoma
 
 Sequent Calculus as a Compiler Intermediate Language  
 Paul Downen, Luke Maurer, Zena Ariola, Simon Peyton Jones  
-([preprint, extended version](http://research.microsoft.com/en-us/um/people/simonpj/papers/sequent-core/scfp_ext.pdf))  
+([extended version](http://research.microsoft.com/en-us/um/people/simonpj/papers/sequent-core/scfp_ext.pdf))  
 
 Set-Theoretic Types for Polymorphic Variants  
 Giuseppe Castagna, Tommaso Petrucciani, Kim Nguyễn  
