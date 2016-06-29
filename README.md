@@ -44,6 +44,7 @@ Ezgi Çiçek, Zoe Paraskevopoulou, Deepak Garg
 
 All Sorts of Permutations (Functional Pearl)  
 Jan Christiansen, Nikita Danilenko, Sandra Dylus  
+([preprint](http://informatik.uni-kiel.de/~sad/icfp2016-preprint.pdf))
 
 Allocation Characterizes Polyvariance  
 Thomas Gilray, Michael D. Adams, Matthew Might  
