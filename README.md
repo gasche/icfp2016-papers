@@ -38,6 +38,7 @@ Johannes Borgström, Ugo Dal Lago, Andrew D. Gordon, Marcin Szymczak
 
 A New Verified Compiler Backend for CakeML  
 Yong Kiam Tan, Magnus O. Myreen, Ramana Kumar, Anthony Fox, Scott Owens, Michael Norrsh  
+([preprint](https://kar.kent.ac.uk/55687/1/icfp16.pdf))
 
 A Type Theory for Incremental Computational Complexity with Control Flow Changes  
 Ezgi Çiçek, Zoe Paraskevopoulou, Deepak Garg  
