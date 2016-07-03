@@ -80,6 +80,7 @@ Wazim Mohammed Ismail, Chung-chieh Shan
 
 Disjoint Intersection Types  
 Bruno Oliveira, Zhiyuan Shi, João Miguel Queiroz de Ataíde Agorreta de Alpuim  
+([draft](http://i.cs.hku.hk/~bruno/papers/icfp2016.pdf))
 
 Dynamic Witnesses for Static Type Errors  
 Eric Seidel, Ranjit Jhala, Westley Weimer  
