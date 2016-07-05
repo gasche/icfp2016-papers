@@ -42,6 +42,7 @@ Yong Kiam Tan, Magnus O. Myreen, Ramana Kumar, Anthony Fox, Scott Owens, Michael
 
 A Type Theory for Incremental Computational Complexity with Control Flow Changes  
 Ezgi Çiçek, Zoe Paraskevopoulou, Deepak Garg  
+([preprint](http://www.mpi-sws.org/~ecicek/DuCostIt.pdf))  
 
 All Sorts of Permutations (Functional Pearl)  
 Jan Christiansen, Nikita Danilenko, Sandra Dylus  
@@ -142,6 +143,7 @@ Giuseppe Castagna, Tommaso Petrucciani, Kim Nguyễn
 
 String Diagrams for Free Monads (Functional Pearl)  
 Maciej Piróg, Nicolas Wu  
+([preprint](https://people.cs.kuleuven.be/~maciej.pirog/papers/free-strings.pdf))  
 
 Talking Bananas: Structural Recursion for Session Types  
 Sam Lindley, J. Garrett Morris  
