@@ -42,6 +42,7 @@ Yong Kiam Tan, Magnus O. Myreen, Ramana Kumar, Anthony Fox, Scott Owens, Michael
 
 A Type Theory for Incremental Computational Complexity with Control Flow Changes  
 Ezgi Çiçek, Zoe Paraskevopoulou, Deepak Garg  
+([preprint](http://www.mpi-sws.org/~ecicek/DuCostIt.pdf))  
 
 All Sorts of Permutations (Functional Pearl)  
 Jan Christiansen, Nikita Danilenko, Sandra Dylus  
