@@ -142,6 +142,7 @@ Giuseppe Castagna, Tommaso Petrucciani, Kim Nguyễn
 
 String Diagrams for Free Monads (Functional Pearl)  
 Maciej Piróg, Nicolas Wu  
+([preprint](https://people.cs.kuleuven.be/~maciej.pirog/papers/free-strings.pdf))  
 
 Talking Bananas: Structural Recursion for Session Types  
 Sam Lindley, J. Garrett Morris  
