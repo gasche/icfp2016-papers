@@ -54,6 +54,7 @@ Thomas Gilray, Michael D. Adams, Matthew Might
 
 An Abstract Memory Functor for Verified C Static Analyzers  
 Sandrine Blazy, Vincent Laporte, David Pichardie  
+([draft](http://www.irisa.fr/celtique/ext/abstract-memory/icfp2016.pdf))  
 
 Automatically Disproving Fair Termination of Higher-Order Functional Programs  
 Keiichi Watanabe, Ryosuke Sato, Takeshi Tsukada, Naoki Kobayashi  
