@@ -168,3 +168,9 @@ Jesper Cockx, Dominique Devriese, Frank Piessens
 As of writing, the submission process for ICFP'16 co-located events is
 not finished. Feel free to send a pull-request with list of accepted
 papers and contribute links to preprints.
+
+### TyDe 2016
+
+Liberating Effects with Rows and Handlers  
+Daniel Hillerström, Sam Lindley  
+([draft](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-june2016.pdf))  
