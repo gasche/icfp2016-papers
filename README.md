@@ -28,6 +28,7 @@ the line.
 
 A Fully Concurrent Garbage Collector for Functional Programs on Multicore Processors  
 Katsuhiro Ueno, Atsushi Ohori  
+([preprint](http://www.pllab.riec.tohoku.ac.jp/papers/icfp2016UenoOhori-preprint.pdf))  
 
 A Glimpse of Hopjs  
 Manuel Serrano, Vincent Prunet  
