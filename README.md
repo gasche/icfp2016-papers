@@ -164,6 +164,68 @@ Unifiers as Equivalences: Proof-Relevant Unification of Dependently Typed Data
 Jesper Cockx, Dominique Devriese, Frank Piessens  
 ([preprint](https://people.cs.kuleuven.be/~jesper.cockx/unifiers-as-equivalences/draft.pdf))  
 
+## Haskell 2016
+
+AUTOBAHN: Using Genetic Algorithms to Infer Strictness Annotations  
+Y. Wang, D. Nunez, K. Fisher.
+
+Causal commutative arrows revisited  
+J. Yallop, H. Liu.  
+([draft](https://www.cl.cam.ac.uk/~jdy22/papers/causal-commutative-arrows-revisited.pdf))  
+
+Desugaring Haskell's do-notation Into Applicative Operations  
+S. Marlow, S. Jones, E. Kmett, A. Mokhov.  
+([draft](http://research.microsoft.com/en-us/um/people/simonpj/papers/list-comp/applicativedo.pdf))  
+
+Embedding Session Types in Haskell  
+S. Lindley, J. G. Morris.  
+([draft](http://homepages.inf.ed.ac.uk/slindley/papers/gvhs-draft-june2016.pdf))  
+
+Experience Report: Developing High Performance HTTP/2 Server in Haskell  
+K. Yamamoto.  
+
+FitSpec: refining property sets for functional testing  
+R. Braquehais, C. Runciman.  
+
+Free Delivery (functional pearl)  
+J. Gibbons.  
+
+Functional Reactive Programming, Refactored  
+I. Perez, M. Barenz, H. Nilsson.  
+
+High-performance client-side web applications through Haskell EDSLs  
+A. Ekblad.  
+([draft](http://ekblad.cc/pubs/haskell16.pdf))  
+
+How to twist pointers without breaking them  
+S. Chauhan, P. Kurur, B. Yorgey.  
+
+The Key Monad:Type-Safe Unconstrained Dynamic Typing  
+P. Buiras, K. Claessen, A. Ploeg.  
+
+Lazy Graph Processing in Haskell  
+P. Dexter, Y. Liu, K. Chiu.  
+
+Non-recursive Make Considered Harmful  
+A. Mokhov, N. Mitchell, S. Peyton Jones, S. Marlow.  
+([draft](http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf))
+
+Pattern Synonyms  
+S. Peyton Jones, R. Eisenberg, G. Érdi, M. Pickering.  
+
+QuickFuzz: an automatic random fuzzer for common file formats  
+G. Grieco, M. Ceresa, P. Buiras.  
+
+Revisiting Software Transactional Memory in Haskell  
+M. Le, R. Yates, M. Fluet.  
+
+Supermonads  
+J. Bracker, H. Nilsson.  
+
+Types for a Relational Algebra Library (Experience Report)  
+M. Agren, L. Augustsson. 
+
+
 ## Co-located events
 
 As of writing, the submission process for ICFP'16 co-located events is
