@@ -164,6 +164,12 @@ Unifiers as Equivalences: Proof-Relevant Unification of Dependently Typed Data
 Jesper Cockx, Dominique Devriese, Frank Piessens  
 ([preprint](https://people.cs.kuleuven.be/~jesper.cockx/unifiers-as-equivalences/draft.pdf))  
 
+## Co-located events
+
+As of writing, the submission process for most ICFP'16 co-located events is
+not finished. Feel free to send a pull-request with list of accepted
+papers and contribute links to preprints.
+
 ## Haskell 2016
 
 AUTOBAHN: Using Genetic Algorithms to Infer Strictness Annotations  
@@ -225,9 +231,3 @@ J. Bracker, H. Nilsson.
 Types for a Relational Algebra Library (Experience Report)  
 M. Agren, L. Augustsson. 
 
-
-## Co-located events
-
-As of writing, the submission process for ICFP'16 co-located events is
-not finished. Feel free to send a pull-request with list of accepted
-papers and contribute links to preprints.
