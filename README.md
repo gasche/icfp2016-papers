@@ -210,7 +210,8 @@ The Key Monad:Type-Safe Unconstrained Dynamic Typing
 P. Buiras, K. Claessen, A. Ploeg.  
 
 Lazy Graph Processing in Haskell  
-P. Dexter, Y. Liu, K. Chiu.  
+P. Dexter, Y. Liu, K. Chiu.
+([draft](http://cs.binghamton.edu/~pdexter1/icfp-haskell2016-paper22.pdf))
 
 Non-recursive Make Considered Harmful  
 A. Mokhov, N. Mitchell, S. Peyton Jones, S. Marlow.  
