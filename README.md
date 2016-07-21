@@ -203,7 +203,7 @@ Programming with Monadic CSP-Style Processes in Dependent Type Theory
 Bashar Igried and Anton Setzer.  
 
 Liberating Effects with Rows and Handlers  
-Daniel Hillerström and Sam Lindley.
+Daniel Hillerström and Sam Lindley.  
 ([draft](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-june2016.pdf))  
 
 Parameterized Extensible Effects and Session Types (Extended Abstract)  
