@@ -269,6 +269,4 @@ Supermonads
 J. Bracker, H. Nilsson.  
 
 Types for a Relational Algebra Library (Experience Report)  
-M. Agren, L. Augustsson. 
-
->>>>>>> upstream/master
+M. Agren, L. Augustsson.  
