@@ -177,6 +177,7 @@ Jeremy Gibbons.
 
 Choose Your Own Derivative (Extended Abstract)  
 Jennifer Paykin, Antal Spector-Zabusky, and Kenneth Foner.  
+([draft](http://cis.upenn.edu/~jpaykin/papers/psf_choose_2016.pdf))  
 
 An Agda Formalisation of the Transitive Closure of Block Matrices (Extended Abstract)  
 Adam Sandberg Eriksson and P. Jansson.  
@@ -189,6 +190,7 @@ Peter-Michael Osera.
 
 Generic Partially-Static Data (Extended Abstract)  
 David Kaloper and Jeremy Yallop.  
+([draft](https://www.cl.cam.ac.uk/~jdy22/papers/generic-partially-static-data.pdf))  
 
 Bidirectional Transformations Are Proof-Relevant Bisimulations (Extended Abstract)  
 James McKinna.  
@@ -198,6 +200,7 @@ Liam O'Connor.
 
 Generic Lookup and Update for Infinitary Inductive-Recursive Types  
 Larry Diehl and Tim Sheard.  
+([draft](http://www.larrytheliquid.com/drafts/infir.pdf))  
 
 Programming with Monadic CSP-Style Processes in Dependent Type Theory  
 Bashar Igried and Anton Setzer.  
