@@ -170,6 +170,45 @@ As of writing, the submission process for most ICFP'16 co-located events is
 not finished. Feel free to send a pull-request with list of accepted
 papers and contribute links to preprints.
 
+## TyDe 2016
+
+APLicative Programming with Naperian Functors (Extended Abstract)  
+Jeremy Gibbons.  
+
+Choose Your Own Derivative (Extended Abstract)  
+Jennifer Paykin, Antal Spector-Zabusky, and Kenneth Foner.  
+
+An Agda Formalisation of the Transitive Closure of Block Matrices (Extended Abstract)  
+Adam Sandberg Eriksson and P. Jansson.  
+
+Generic diff3 for Algebraic Datatypes  
+Marco Vassena.  
+
+Programming Assistance for Type-Directed Programming (Extended Abstract)  
+Peter-Michael Osera.  
+
+Generic Partially-Static Data (Extended Abstract)  
+David Kaloper and Jeremy Yallop.  
+
+Bidirectional Transformations Are Proof-Relevant Bisimulations (Extended Abstract)  
+James McKinna.  
+
+Applications of Applicative Proof Search  
+Liam O'Connor.
+
+Generic Lookup and Update for Infinitary Inductive-Recursive Types  
+Larry Diehl and Tim Sheard.  
+
+Programming with Monadic CSP-Style Processes in Dependent Type Theory  
+Bashar Igried and Anton Setzer.  
+
+Liberating Effects with Rows and Handlers  
+Daniel Hillerström and Sam Lindley.  
+([draft](http://homepages.inf.ed.ac.uk/slindley/papers/links-effect-draft-june2016.pdf))  
+
+Parameterized Extensible Effects and Session Types (Extended Abstract)  
+Oleg Kiselyov.  
+
 ## Haskell 2016
 
 AUTOBAHN: Using Genetic Algorithms to Infer Strictness Annotations  
@@ -210,7 +249,7 @@ The Key Monad:Type-Safe Unconstrained Dynamic Typing
 P. Buiras, K. Claessen, A. Ploeg.  
 
 Lazy Graph Processing in Haskell  
-P. Dexter, Y. Liu, K. Chiu.
+P. Dexter, Y. Liu, K. Chiu.  
 ([draft](http://cs.binghamton.edu/~pdexter1/icfp-haskell2016-paper22.pdf))
 
 Non-recursive Make Considered Harmful  
@@ -230,5 +269,4 @@ Supermonads
 J. Bracker, H. Nilsson.  
 
 Types for a Relational Algebra Library (Experience Report)  
-M. Agren, L. Augustsson. 
-
+M. Agren, L. Augustsson.  
