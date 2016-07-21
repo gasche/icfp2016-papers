@@ -62,6 +62,7 @@ Keiichi Watanabe, Ryosuke Sato, Takeshi Tsukada, Naoki Kobayashi
 
 Combining Effects and Coeffects via Grading  
 Marco Gaboardi, Shinya Katsumata, Dominic Orchard, Flavien Breuvart, Tarmo Uustalu  
+([draft](http://www.cl.cam.ac.uk/~dao29/publ/combining-effects-and-coeffects-icfp16.pdf))  
 
 Compact Bit Encoding Schemes for Simply-Typed Lambda-Terms  
 Kotaro Takeda, Naoki Kobayashi, Kazuya Yaguchi, Ayumi Shinohara  
@@ -240,6 +241,7 @@ J. Gibbons.
 
 Functional Reactive Programming, Refactored  
 I. Perez, M. Barenz, H. Nilsson.  
+([draft](http://www.cs.nott.ac.uk/~psxip1/papers/2016-HaskellSymposium-Perez-Barenz-Nilsson-FRPRefactored-short.pdf))  
 
 High-performance client-side web applications through Haskell EDSLs  
 A. Ekblad.  
