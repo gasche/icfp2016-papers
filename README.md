@@ -39,7 +39,7 @@ Johannes Borgström, Ugo Dal Lago, Andrew D. Gordon, Marcin Szymczak
 
 A New Verified Compiler Backend for CakeML  
 Yong Kiam Tan, Magnus O. Myreen, Ramana Kumar, Anthony Fox, Scott Owens, Michael Norrsh  
-([preprint](https://kar.kent.ac.uk/55687/1/icfp16.pdf))
+([preprint](https://cakeml.org/icfp16.pdf))  
 
 A Type Theory for Incremental Computational Complexity with Control Flow Changes  
 Ezgi Çiçek, Zoe Paraskevopoulou, Deepak Garg  
@@ -150,7 +150,7 @@ Maciej Piróg, Nicolas Wu
 
 Talking Bananas: Structural Recursion for Session Types  
 Sam Lindley, J. Garrett Morris  
-([draft](http://homepages.inf.ed.ac.uk/slindley/papers/talking-bananas-draft-march2016.pdf))  
+([preprint](http://homepages.inf.ed.ac.uk/slindley/papers/talking-bananas.pdf))  
 
 The Best of Both Worlds: Linear Functional Programming without Compromise  
 J. Garrett Morris  
