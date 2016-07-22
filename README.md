@@ -213,7 +213,7 @@ Daniel Hillerström and Sam Lindley.
 Parameterized Extensible Effects and Session Types (Extended Abstract)  
 Oleg Kiselyov.  
 
-## Haskell 2016
+## Haskell Symposium 2016
 
 AUTOBAHN: Using Genetic Algorithms to Infer Strictness Annotations  
 Y. Wang, D. Nunez, K. Fisher.
