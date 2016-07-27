@@ -275,3 +275,42 @@ J. Bracker, H. Nilsson.
 
 Types for a Relational Algebra Library (Experience Report)  
 M. Agren, L. Augustsson.  
+
+## ML Workshop 2016
+
+WebAssembly: high speed at low cost for everyone  
+Andreas Rossberg  
+
+Extracting from F\* to C: a progress report  
+Jonathan Protzenko, Karthikeyan Bhargavan, Jean-Karim Zinzindohoué,
+Abhishek Anand, Cédric Fournet, Bryan Parno, Aseem Rastogi and Nikhil Swamy  
+
+Compiling with Continuations and LLVM  
+Kavon Farvardin and John Reppy  
+
+SML# with Natural Join  
+Tomohiro Sasaki, Katsuhiro Ueno and Atsushi Ohori  
+
+Eff Directly in OCaml  
+Oleg Kiselyov and Kc Sivaramakrishnan  
+([draft](http://kcsrk.info/papers/eff_ocaml_ml16.pdf))  
+
+Compiling Links Effect Handlers to the OCaml Backend  
+Daniel Hillerström, Sam Lindley and Kc Sivaramakrishnan  
+([draft](http://homepages.inf.ed.ac.uk/s1467124/papers/mlabstract2016.pdf))  
+
+Classes for the Masses  
+Claudio Russo and Matthew Windsor  
+
+Close Encounters of the Higher Kind - Emulating Constructor Classes in Standard ML  
+Yutaka Nagashima and Liam O'Connor  
+
+Malfunctional Programming  
+Stephen Dolan  
+([draft](https://www.cl.cam.ac.uk/~sd601/papers/malfunction.pdf))  
+
+Ambiguous pattern variables  
+Gabriel Scherer, Luc Maranget and Thomas Réfis  
+
+Typed Embedding of Relational Language in OCaml  
+Dmitri Kosarev and Dmitri Boulytchev  
