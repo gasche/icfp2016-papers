@@ -311,6 +311,7 @@ Stephen Dolan
 
 Ambiguous pattern variables  
 Gabriel Scherer, Luc Maranget and Thomas Réfis  
+([draft](http://ccs.neu.edu/home/gasche/drafts/ml_workshop_2016.pdf))
 
 Typed Embedding of Relational Language in OCaml  
 Dmitri Kosarev and Dmitri Boulytchev  
