@@ -249,6 +249,7 @@ A. Ekblad.
 
 How to twist pointers without breaking them  
 S. Chauhan, P. Kurur, B. Yorgey.  
+([draft](http://cse.iitk.ac.in/users/ppk/research/publication/Conference/2016-09-22-How-to-twist-pointers.pdf))
 
 The Key Monad:Type-Safe Unconstrained Dynamic Typing  
 P. Buiras, K. Claessen, A. Ploeg.  
