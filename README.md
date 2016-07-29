@@ -154,6 +154,7 @@ Sam Lindley, J. Garrett Morris
 
 The Best of Both Worlds: Linear Functional Programming without Compromise  
 J. Garrett Morris  
+([preprint](http://homepages.inf.ed.ac.uk/jmorri14/pubs/morris-icfp2016-linearity.pdf))  
 
 Think Like a Vertex, Behave Like a Function! A Functional DSL for Vertex-Centric Big Graph Processing  
 Kento Emoto, Kiminori Matsuzaki, Zhenjiang Hu, Akimasa Morihata, Hideya Iwasaki  
@@ -175,6 +176,7 @@ papers and contribute links to preprints.
 
 APLicative Programming with Naperian Functors (Extended Abstract)  
 Jeremy Gibbons.  
+([preprint](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/apl-extabs.pdf))  
 
 Choose Your Own Derivative (Extended Abstract)  
 Jennifer Paykin, Antal Spector-Zabusky, and Kenneth Foner.  
@@ -238,6 +240,7 @@ R. Braquehais, C. Runciman.
 
 Free Delivery (functional pearl)  
 J. Gibbons.  
+([preprint](http://www.cs.ox.ac.uk/jeremy.gibbons/publications/delivery.pdf))  
 
 Functional Reactive Programming, Refactored  
 I. Perez, M. Barenz, H. Nilsson.  
@@ -316,3 +319,50 @@ Gabriel Scherer, Luc Maranget and Thomas Réfis
 
 Typed Embedding of Relational Language in OCaml  
 Dmitri Kosarev and Dmitri Boulytchev  
+
+
+## FARM 2016
+
+### Full Papers
+
+Bithoven: Gödel Encoding of Chamber Music and Functional 8-Bit Audio Synthesis  
+Jay McCarthy  
+([preprint](http://jeapostrophe.github.io/home/static/farm2016.pdf))  
+
+Juniper: A Functional Reactive Programming Language for the Arduino  
+Samuel Z. Guyer  
+
+Arrp: A Functional Language with Multi-dimensional Signals and Recurrence Equations  
+Jakob Leben  
+
+Structured Reactive Programming with Polymorphic Temporal Tiles  
+David Janin  
+
+o.OM: Structured-Functional Communication between Computer Music Systems using OSC and Odot  
+Jean Bresson  
+
+A Livecoding Semantics for Functional Reactive Programming  
+Tom E. Murphy  
+
+### Calls for Collaboration
+
+Call for Collaboration: Algomusicology, ????, Profit  
+Chris Ford  
+
+### Demos
+
+Demo: Klangmeister  
+Chris Ford  
+([demo page](http://functional-art.org/2016/klangmeister.html))  
+
+Demo: VoxelCAD, a collaborative voxel-based CAD tool  
+Csongor Kiss and Toby Shaw  
+([demo page](http://functional-art.org/2016/voxelcad.html))  
+
+Demo: Alda: A text-based music composition language  
+Dave Yarwood  
+([demo page](http://functional-art.org/2016/alda.html))  
+
+Demo: Epimorphism  
+Francis Shuman  
+([demo page](http://functional-art.org/2016/epimorphism.html))  
