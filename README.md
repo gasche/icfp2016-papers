@@ -366,3 +366,35 @@ Dave Yarwood
 Demo: Epimorphism  
 Francis Shuman  
 ([demo page](http://functional-art.org/2016/epimorphism.html))  
+
+## FHPC 2016
+
+Icicle: write once, run once  
+Amos Robinson, Ben Lippmeier  
+([draft](http://benl.ouroborus.net/papers/2016-icicle/icicle-FHPC2016-sub.pdf))  
+
+Using Fusion to Enable Late Design Decisions for Pipelined Computations  
+Mate Karacsony, Koen Claessen  
+
+Automatic generation of efficient codes from mathematical descriptions of stencil computation  
+Takayuki Muranushi, Seiya Nishizawa, Hirofumi Tomita, Keigo Nitadori, Masaki Iwasawa, Yutaka Maruyama, Hisashi Yashiro, Yoshifumi Nakamura, Hideyuki Hotta, Junichiro Makino, Natsuki Hosono, Hikaru Inoue  
+
+JIT Costing Adaptive Skeletons for Performance Portability  
+Patrick Maier, John Magnus Morton, Phil Trinder  
+
+Low-level functional GPU programming for parallel algorithms  
+Martin Dybdal, Martin Elsman, Bo Joel Svensson, Mary Sheeran  
+
+APL on GPUs - A TAIL from the Past, Scribbled in Futhark  
+Troels Henriksen, Martin Dybdal, Henrik Urms, Anna Sofie Kiehn , Daniel Gavin , Hjalte Abelskov, Martin Elsman, Cosmin Oancea  
+([preprint](https://futhark-lang.org/publications/fhpc16.pdf))
+
+Streaming Nested Data Parallelism on Multicores  
+Frederik Meisner Madsen, Andrzej Filinski  
+
+Polarised Data Parallel Data Flow  
+Ben Lippmeier, Fil Mackay, Amos Robinson  
+([draft](http://benl.ouroborus.net/papers/2016-polarized/dpdf-FHPC2016-sub.pdf))  
+
+s6raph: Vertex-centric Graph Processing Framework with Functional Interface  
+Onofre Coll Ruiz, Kiminori Matsuzaki, Shigeyuki Sato  
