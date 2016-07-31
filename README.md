@@ -266,7 +266,8 @@ A. Mokhov, N. Mitchell, S. Peyton Jones, S. Marlow.
 ([draft](http://research.microsoft.com/en-us/um/people/simonpj/papers/ghc-shake/ghc-shake.pdf))
 
 Pattern Synonyms  
-S. Peyton Jones, R. Eisenberg, G. Érdi, M. Pickering.  
+M. Pickering, G. Érdi, S. Peyton Jones, R. Eisenberg.  
+([preprint](http://mpickering.github.io//pattern-synonyms-final.pdf))
 
 QuickFuzz: an automatic random fuzzer for common file formats  
 G. Grieco, M. Ceresa, P. Buiras.  
