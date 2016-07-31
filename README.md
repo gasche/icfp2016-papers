@@ -273,6 +273,7 @@ G. Grieco, M. Ceresa, P. Buiras.
 
 Revisiting Software Transactional Memory in Haskell  
 M. Le, R. Yates, M. Fluet.  
+([preprint](https://www.cs.rochester.edu/u/ryates/files/HASKELL2016.pdf))  
 
 Supermonads  
 J. Bracker, H. Nilsson.  
