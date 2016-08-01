@@ -422,7 +422,8 @@ Kc Sivaramakrishnan and Theo Laurent
 
 OCaml inside: a drop-in replacement for libtls  
 Enguerrand Decorne, Jeremy Yallop and David Kaloper Meršinjak  
-([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/ocaml-inside-a-drop-in-replacement-for-libtls.pdf))
+([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/ocaml-inside-a-drop-in-replacement-for-libtls.pdf),
+[implementation](https://github.com/mirleft/libnqsb-tls/))
 
 OPAM-builder: Continuous Monitoring of OPAM Repositories  
 Fabrice Le Fessant  
