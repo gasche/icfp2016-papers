@@ -332,16 +332,16 @@ Jay McCarthy
 ([preprint](http://jeapostrophe.github.io/home/static/farm2016.pdf))  
 
 Juniper: A Functional Reactive Programming Language for the Arduino  
-Samuel Z. Guyer  
+Caleb Helbling and Samuel Guyer  
 
 Arrp: A Functional Language with Multi-dimensional Signals and Recurrence Equations  
 Jakob Leben  
 
 Structured Reactive Programming with Polymorphic Temporal Tiles  
-David Janin  
+David Janin and Simon Archipoff  
 
 o.OM: Structured-Functional Communication between Computer Music Systems using OSC and Odot  
-Jean Bresson  
+Jean Bresson, John MacCallum and Adrian Freed  
 
 A Livecoding Semantics for Functional Reactive Programming  
 Tom E. Murphy  
