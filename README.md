@@ -418,7 +418,7 @@ Benjamin Canou, Grégoire Henry, Çagdas Bozman and Fabrice Le Fessant
 
 Lock-free programming for the masses  
 Kc Sivaramakrishnan and Theo Laurent  
-([blog post](http://kcsrk.info/ocaml/multicore/2016/06/11/lock-free/))
+([extended abstract](http://kcsrk.info/papers/reagents_ocaml16.pdf))
 
 OCaml inside: a drop-in replacement for libtls  
 Enguerrand Decorne, Jeremy Yallop and David Kaloper Meršinjak  
