@@ -400,3 +400,60 @@ Ben Lippmeier, Fil Mackay, Amos Robinson
 
 s6raph: Vertex-centric Graph Processing Framework with Functional Interface  
 Onofre Coll Ruiz, Kiminori Matsuzaki, Shigeyuki Sato  
+
+## OCaml 2016
+
+Conex - establishing trust into data repositories  
+Hannes Mehnert and Louis Gesbert  
+([extended abstract](https://github.com/hannesm/conex-paper/raw/master/paper.pdf))
+
+Generic Programming in OCaml  
+Florent Balestrieri and Michel Mauny  
+
+Improving the OCaml Web Stack: Motivations and Progress  
+Spiridon Eliopoulos  
+
+Learn OCaml: An Online Learning Center for OCaml  
+Benjamin Canou, Grégoire Henry, Çagdas Bozman and Fabrice Le Fessant  
+
+Lock-free programming for the masses  
+Kc Sivaramakrishnan and Theo Laurent  
+([blog post](http://kcsrk.info/ocaml/multicore/2016/06/11/lock-free/))
+
+OCaml inside: a drop-in replacement for libtls  
+Enguerrand Decorne, Jeremy Yallop and David Kaloper Meršinjak  
+([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/ocaml-inside-a-drop-in-replacement-for-libtls.pdf))
+
+OPAM-builder: Continuous Monitoring of OPAM Repositories  
+Fabrice Le Fessant  
+([implementation](https://github.com/OCamlPro/opam-builder))
+
+Semantics of the Lambda intermediate language  
+Pierre Chambart  
+
+Statistically profiling memory in OCaml  
+Jacques-Henri Jourdan  
+([implementation (ocaml branch)](https://github.com/jhjourdan/ocaml/tree/memprof))
+
+Sundials/ML: interfacing with numerical solvers  
+Timothy Bourke, Jun Inoue, Marc Pouzet  
+([implementation](https://github.com/inria-parkas/sundialsml), [documentation](http://inria-parkas.github.io/sundialsml/))
+
+The State of the OCaml Platform: September 2016  
+Louis Gesbert and Anil Madhavapeddy  
+
+Who's got your Mail? Mr. Mime!  
+Romain Calascibetta  
+
+The following works will be presented as posters during a dedicated
+poster session:
+
+Inuit library: from printf to interactive user-interfaces  
+Frédéric Bour  
+
+ocp-lint, A Plugin-based Style-Checker with Semantic Patches  
+Çagdas Bozman, Théophane Hufschmitt, Michael Laporte and Fabrice Le Fessant  
+([implementation](https://github.com/OCamlPro/typerex-lint))
+
+Partial evaluation and metaprogramming  
+Pierre Chambart  
