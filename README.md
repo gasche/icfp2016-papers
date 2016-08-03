@@ -445,6 +445,7 @@ Louis Gesbert and Anil Madhavapeddy
 
 Who's got your Mail? Mr. Mime!  
 Romain Calascibetta  
+([extended abstract](http://din.osau.re/mrmime.pdf), [implementation](https://github.com/oklm-wsh/MrMime))
 
 The following works will be presented as posters during a dedicated
 poster session:
