@@ -444,6 +444,7 @@ Timothy Bourke, Jun Inoue, Marc Pouzet
 
 The State of the OCaml Platform: September 2016  
 Louis Gesbert and Anil Madhavapeddy  
+([extended abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/2016_OUD_gesbert_madhavapeddy.pdf))
 
 Who's got your Mail? Mr. Mime!  
 Romain Calascibetta  
