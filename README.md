@@ -271,6 +271,8 @@ M. Pickering, G. Érdi, S. Peyton Jones, R. Eisenberg.
 
 QuickFuzz: an automatic random fuzzer for common file formats  
 G. Grieco, M. Ceresa, P. Buiras.  
+([preprint](https://github.com/CIFASIS/QuickFuzz/releases/download/haskell16-draft/draft-haskell16.pdf),
+[implementation](http://QuickFuzz.org))
 
 Revisiting Software Transactional Memory in Haskell  
 M. Le, R. Yates, M. Fluet.  
