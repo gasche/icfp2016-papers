@@ -431,7 +431,8 @@ Enguerrand Decorne, Jeremy Yallop and David Kaloper Meršinjak
 OPAM-builder: Continuous Monitoring of OPAM Repositories  
 Fabrice Le Fessant  
 ([extended abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/ocaml2016-opam-builder.pdf),
-[implementation](https://github.com/OCamlPro/opam-builder))
+[implementation](https://github.com/OCamlPro/opam-builder),
+[build results](http://opam.ocamlpro.com/builder/html/report-last.html))
 
 Semantics of the Lambda intermediate language  
 Pierre Chambart  
@@ -445,7 +446,7 @@ Timothy Bourke, Jun Inoue, Marc Pouzet
 ([implementation](https://github.com/inria-parkas/sundialsml), [documentation](http://inria-parkas.github.io/sundialsml/))
 
 The State of the OCaml Platform: September 2016  
-Louis Gesbert and Anil Madhavapeddy  
+Louis Gesbert, on behalf of the OCaml Platform team  
 ([extended abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/2016_OUD_gesbert_madhavapeddy.pdf))
 
 Who's got your Mail? Mr. Mime!  
