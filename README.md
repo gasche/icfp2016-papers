@@ -184,6 +184,7 @@ Jennifer Paykin, Antal Spector-Zabusky, and Kenneth Foner.
 
 An Agda Formalisation of the Transitive Closure of Block Matrices (Extended Abstract)  
 Adam Sandberg Eriksson and P. Jansson.  
+([preprint](http://www.cse.chalmers.se/~patrikj/papers/AgdaClosureBlock_TyDe16.pdf), [GitHub source](https://github.com/DSLsofMath/FLABloM))
 
 Generic diff3 for Algebraic Datatypes  
 Marco Vassena.  
