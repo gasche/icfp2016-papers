@@ -417,6 +417,7 @@ Spiridon Eliopoulos
 
 Learn OCaml: An Online Learning Center for OCaml  
 Benjamin Canou, Grégoire Henry, Çagdas Bozman and Fabrice Le Fessant  
+([extended abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/ocaml-2016-learn-ocaml.pdf))
 
 Lock-free programming for the masses  
 Kc Sivaramakrishnan and Theo Laurent  
@@ -429,7 +430,8 @@ Enguerrand Decorne, Jeremy Yallop and David Kaloper Meršinjak
 
 OPAM-builder: Continuous Monitoring of OPAM Repositories  
 Fabrice Le Fessant  
-([implementation](https://github.com/OCamlPro/opam-builder))
+([extended abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/ocaml2016-opam-builder.pdf),
+[implementation](https://github.com/OCamlPro/opam-builder))
 
 Semantics of the Lambda intermediate language  
 Pierre Chambart  
@@ -458,7 +460,8 @@ Frédéric Bour
 
 ocp-lint, A Plugin-based Style-Checker with Semantic Patches  
 Çagdas Bozman, Théophane Hufschmitt, Michael Laporte and Fabrice Le Fessant  
-([implementation](https://github.com/OCamlPro/typerex-lint))
+([extended abstract](http://www.ocamlpro.com/wp-content/uploads/2016/08/ocaml-2016-typerex-lint.pdf),
+[implementation](https://github.com/OCamlPro/typerex-lint))
 
 Partial evaluation and metaprogramming  
 Pierre Chambart  
