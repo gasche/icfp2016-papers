@@ -467,3 +467,26 @@ ocp-lint, A Plugin-based Style-Checker with Semantic Patches
 
 Partial evaluation and metaprogramming  
 Pierre Chambart  
+
+## Scheme 2016
+
+Ghosts in the machine  
+Daniel Szmulewicz  
+
+A Scheme concurrency library  
+Takashi Kato  
+
+Nash: a tracing JIT for extension language  
+Atsuro Hoshino  
+
+Function compose, Type cut, And the Algebra of logic  
+XIE Yuheng  
+
+Multi-purpose web framework design based on websocket over HTTP Gateway  
+Mu Lei  
+
+Deriving Pure, Functional One-Pass Operations for Processing Tail-Aligned Lists  
+Jason Hemann, Daniel P. Friedman  
+
+miniAdapton: A Minimal Implementation of Incremental Computation in Scheme  
+Dakota Fisher, Matthew Hammer, William Byrd, Matthew Might  
