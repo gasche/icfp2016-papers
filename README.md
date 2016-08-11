@@ -133,7 +133,7 @@ Shin-Cheng Mu, Yu-Hsi Chiang, Yu-Han Lyu
 ([preprint](http://www.iis.sinica.edu.tw/~scm/pub/queueing-glueing.pdf))  
 
 Refinement through Restraint: Bringing Down the Cost of Verification  
-Liam O'Connor, Zilin Chen, Sidney Amani, Christine Rizkallah, Japheth Lim, Thomas Sewll, Yutaka Nagashima, Alex Hixon, Joseph Tuong, Toby Murray, Gerwin Klein, Gernot Heiser  
+Liam O’Connor, Zilin Chen, Christine Rizkallah, Sidney Amani, Japheth Lim, Toby Murray, Yutaka Nagashima, Thomas Sewell, Gerwin Klein 
 ([draft](http://www.mpi-inf.mpg.de/~crizkall/Publications/cogent.pdf))
 
 Sequent Calculus as a Compiler Intermediate Language  
