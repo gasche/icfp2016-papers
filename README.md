@@ -59,6 +59,7 @@ Sandrine Blazy, Vincent Laporte, David Pichardie
 
 Automatically Disproving Fair Termination of Higher-Order Functional Programs  
 Keiichi Watanabe, Ryosuke Sato, Takeshi Tsukada, Naoki Kobayashi  
+([preprint](http://www-kb.is.s.u-tokyo.ac.jp/~ryosuke/papers/icfp2016.pdf)  
 
 Combining Effects and Coeffects via Grading  
 Marco Gaboardi, Shinya Katsumata, Dominic Orchard, Flavien Breuvart, Tarmo Uustalu  
@@ -161,8 +162,9 @@ J. Garrett Morris
 Think Like a Vertex, Behave Like a Function! A Functional DSL for Vertex-Centric Big Graph Processing  
 Kento Emoto, Kiminori Matsuzaki, Zhenjiang Hu, Akimasa Morihata, Hideya Iwasaki  
 
-Towards Context-Free Session Types  
+Context-Free Session Types  
 Peter Thiemann, Vasco Vasconcelos  
+([preprint])(http://www.di.fc.ul.pt/~vv/papers/thiemann.vasconcelos_context-free-session-types.pdf)  
 
 Unifiers as Equivalences: Proof-Relevant Unification of Dependently Typed Data  
 Jesper Cockx, Dominique Devriese, Frank Piessens  
