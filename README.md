@@ -283,8 +283,9 @@ Revisiting Software Transactional Memory in Haskell
 M. Le, R. Yates, M. Fluet.  
 ([preprint](https://www.cs.rochester.edu/u/ryates/files/HASKELL2016.pdf))  
 
-Supermonads  
+Supermonads - One Notion to Bind Them All  
 J. Bracker, H. Nilsson.  
+([preprint](http://www.cs.nott.ac.uk/~psxjb5/publications/2016-BrackerNilsson-Supermonads.pdf))  
 
 Types for a Relational Algebra Library (Experience Report)  
 M. Agren, L. Augustsson.  
