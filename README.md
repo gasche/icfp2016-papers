@@ -164,7 +164,7 @@ Kento Emoto, Kiminori Matsuzaki, Zhenjiang Hu, Akimasa Morihata, Hideya Iwasaki
 
 Context-Free Session Types  
 Peter Thiemann, Vasco Vasconcelos  
-([preprint])(http://www.di.fc.ul.pt/~vv/papers/thiemann.vasconcelos_context-free-session-types.pdf)  
+([preprint](http://www.di.fc.ul.pt/~vv/papers/thiemann.vasconcelos_context-free-session-types.pdf))  
 
 Unifiers as Equivalences: Proof-Relevant Unification of Dependently Typed Data  
 Jesper Cockx, Dominique Devriese, Frank Piessens  
