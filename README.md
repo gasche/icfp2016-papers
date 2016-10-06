@@ -59,7 +59,7 @@ Sandrine Blazy, Vincent Laporte, David Pichardie
 
 Automatically Disproving Fair Termination of Higher-Order Functional Programs  
 Keiichi Watanabe, Ryosuke Sato, Takeshi Tsukada, Naoki Kobayashi  
-([preprint](http://www-kb.is.s.u-tokyo.ac.jp/~ryosuke/papers/icfp2016.pdf)  
+([preprint](http://www-kb.is.s.u-tokyo.ac.jp/~ryosuke/papers/icfp2016.pdf))  
 
 Combining Effects and Coeffects via Grading  
 Marco Gaboardi, Shinya Katsumata, Dominic Orchard, Flavien Breuvart, Tarmo Uustalu  
