@@ -59,7 +59,7 @@ Sandrine Blazy, Vincent Laporte, David Pichardie
 
 Automatically Disproving Fair Termination of Higher-Order Functional Programs  
 Keiichi Watanabe, Ryosuke Sato, Takeshi Tsukada, Naoki Kobayashi  
-([preprint](http://www-kb.is.s.u-tokyo.ac.jp/~ryosuke/papers/icfp2016.pdf)  
+([preprint](http://www-kb.is.s.u-tokyo.ac.jp/~ryosuke/papers/icfp2016.pdf))  
 
 Combining Effects and Coeffects via Grading  
 Marco Gaboardi, Shinya Katsumata, Dominic Orchard, Flavien Breuvart, Tarmo Uustalu  
@@ -164,7 +164,7 @@ Kento Emoto, Kiminori Matsuzaki, Zhenjiang Hu, Akimasa Morihata, Hideya Iwasaki
 
 Context-Free Session Types  
 Peter Thiemann, Vasco Vasconcelos  
-([preprint])(http://www.di.fc.ul.pt/~vv/papers/thiemann.vasconcelos_context-free-session-types.pdf)  
+([preprint](http://www.di.fc.ul.pt/~vv/papers/thiemann.vasconcelos_context-free-session-types.pdf))  
 
 Unifiers as Equivalences: Proof-Relevant Unification of Dependently Typed Data  
 Jesper Cockx, Dominique Devriese, Frank Piessens  
