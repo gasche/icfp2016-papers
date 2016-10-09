@@ -382,7 +382,7 @@ Francis Shuman
 
 Icicle: write once, run once  
 Amos Robinson, Ben Lippmeier  
-([draft](http://benl.ouroborus.net/papers/2016-icicle/icicle-FHPC2016-sub.pdf))  
+([preprint](http://benl.ouroborus.net/papers/2016-icicle/icicle-FHPC2016-preprint.pdf))  
 
 Using Fusion to Enable Late Design Decisions for Pipelined Computations  
 Mate Karacsony, Koen Claessen  
@@ -405,7 +405,7 @@ Frederik Meisner Madsen, Andrzej Filinski
 
 Polarised Data Parallel Data Flow  
 Ben Lippmeier, Fil Mackay, Amos Robinson  
-([draft](http://benl.ouroborus.net/papers/2016-polarized/dpdf-FHPC2016-sub.pdf))  
+([preprint](http://benl.ouroborus.net/papers/2016-polarized/dpdf-FHPC2016-preprint.pdf))  
 
 s6raph: Vertex-centric Graph Processing Framework with Functional Interface  
 Onofre Coll Ruiz, Kiminori Matsuzaki, Shigeyuki Sato  
