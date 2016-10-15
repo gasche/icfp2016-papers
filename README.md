@@ -341,7 +341,9 @@ Jay McCarthy
 ([preprint](http://jeapostrophe.github.io/home/static/farm2016.pdf))  
 
 Juniper: A Functional Reactive Programming Language for the Arduino  
-Caleb Helbling and Samuel Guyer  
+Caleb Helbling and Samuel Guyer
+([preprint](http://www.juniper-lang.org/publications/juniper_farm_preprint.pdf),
+[implementation](http://www.juniper-lang.org/))  
 
 Arrp: A Functional Language with Multi-dimensional Signals and Recurrence Equations  
 Jakob Leben  
