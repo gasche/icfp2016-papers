@@ -32,6 +32,7 @@ Katsuhiro Ueno, Atsushi Ohori
 
 A Glimpse of Hopjs  
 Manuel Serrano, Vincent Prunet  
+([preprint](https://hal.inria.fr/hal-01350936/file/icfp16.pdf) from [HAL](https://hal.inria.fr/hal-01350936))
 
 A Lambda-Calculus Foundation for Universal Probabilistic Programming  
 Johannes Borgström, Ugo Dal Lago, Andrew D. Gordon, Marcin Szymczak  
