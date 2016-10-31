@@ -177,7 +177,7 @@ As of writing, the submission process for most ICFP'16 co-located events is
 not finished. Feel free to send a pull-request with list of accepted
 papers and contribute links to preprints.
 
-## TyDe 2016
+## TyDe 2016 ([video recordings of the talks](https://www.youtube.com/playlist?list=PLnqUlCo055hUFzMkHyGOvOc0jNbv_bd26))
 
 APLicative Programming with Naperian Functors (Extended Abstract)  
 Jeremy Gibbons.  
@@ -188,11 +188,12 @@ Jennifer Paykin, Antal Spector-Zabusky, and Kenneth Foner.
 ([draft](http://cis.upenn.edu/~jpaykin/papers/psf_choose_2016.pdf))  
 
 An Agda Formalisation of the Transitive Closure of Block Matrices (Extended Abstract)  
-Adam Sandberg Eriksson and P. Jansson.  
-([preprint](http://www.cse.chalmers.se/~patrikj/papers/AgdaClosureBlock_TyDe16.pdf), [GitHub source](https://github.com/DSLsofMath/FLABloM))
+Adam Sandberg Eriksson and [Patrik Jansson](https://www.chalmers.se/en/Staff/Pages/patrik-jansson.aspx).  
+([talk video](https://www.youtube.com/watch?v=ts48ZYEuj4I&index=10&list=PLnqUlCo055hUFzMkHyGOvOc0jNbv_bd26), [preprint](http://www.cse.chalmers.se/~patrikj/papers/AgdaClosureBlock_TyDe16.pdf), [GitHub source](https://github.com/DSLsofMath/FLABloM), [slides](https://github.com/DSLsofMath/FLABloM/blob/master/doc/slides.lagda))  
 
 Generic diff3 for Algebraic Datatypes  
 Marco Vassena.  
+([talk video](https://www.youtube.com/watch?v=QMpL_SG8vjg&list=PLnqUlCo055hUFzMkHyGOvOc0jNbv_bd26&index=1))  
 
 Programming Assistance for Type-Directed Programming (Extended Abstract)  
 Peter-Michael Osera.  
